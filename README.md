@@ -1,6 +1,6 @@
 # Hi there, I'm KAMRUL HASAN! 👋
 
-<h4>I'm a passionate Web Developer on a mission to create meaningful and impactful digital experiences. With a strong foundation in front-end and back-end technologies, I enjoy turning complex problems into elegant solutions.</h4>
+<b>I'm a passionate Web Developer on a mission to create meaningful and impactful digital experiences. With a strong foundation in front-end and back-end technologies, I enjoy turning complex problems into elegant solutions.</b>
 
 <!-- Your Cover Picture -->
 <p align="left">
