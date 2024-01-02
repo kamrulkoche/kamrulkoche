@@ -15,7 +15,7 @@
 
 ## 🎓 University Project
 
-- 🖱️<b>[BEST-CLICK-STORE]</b>(https://github.com/kamrulkoche/Best-Click-Store): Web Developer E-Commerce
+- 🖱️[BEST-CLICK-STORE](https://github.com/kamrulkoche/Best-Click-Store): Web Developer E-Commerce
 application using nestjs ,nextjs and PostgreSQL.
 - 🏡[DREAM-HOUSE](https://github.com/kamrulkoche/Dream_House-web/tree/Admin): Web Developer An online-based
 property management system using HTML, CSS, JavaScript, PHP,
