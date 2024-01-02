@@ -28,8 +28,8 @@ Early Stroke Risk Prediction.
 ## 🚀 Technologies & Tools & 🛠️ Skills
 
 - **Languages:** C++, C#, JavaScript, Python, HTML5, CSS3, JavaScript (ES6+), PHP
-- **Frontend:** React.js, Next.js, Bootstrap5, Tailwindcss, Material UI
-- **Backend:** Node.js, Express, Nest.js
+- ** 🌐Frontend:** React.js, Next.js, Bootstrap5, Tailwindcss, Material UI
+- **🖥️Backend:** Node.js, Express, Nest.js
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Testing:** Selenium 
 - **DevOps:** Git & GitHub
