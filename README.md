@@ -35,7 +35,13 @@ Early Stroke Risk Prediction.
 - **DevOps:** Git & GitHub
 - **Tools:** VSCode, Visual Studio, Postman, Figma, Matlab
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## My Git stats
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamrulkoche" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulkoche"/>
+</p>
+
 
 
 
@@ -56,12 +62,6 @@ I'm currently exploring [specific technology or framework] to enhance my skills.
 
 Feel free to check out my [Resume](https://drive.google.com/file/d/1rMNK2sa9hUhQMIbNRHPkRqy9dKXawVMH/view?usp=drive_link) for more detailed information about my professional experience, skills, and education.
 
-#### My Git stats
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamrulkoche" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulkoche"/>
-</p>
 
 
 
