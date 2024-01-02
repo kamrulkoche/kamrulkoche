@@ -19,7 +19,7 @@
 application using Nest.js, Next.js and PostgreSQL.
 - 🏡[DREAM-HOUSE](https://github.com/kamrulkoche/Dream_House-web/tree/Admin): Web Developer Online-based
 property management system using HTML, CSS, JavaScript, PHP,
-Ajax and MySQL
+Ajax and MySQL.
 - 🏨[HOTEL-MANAGEMENT-SYSTEM](https://github.com/kamrulkoche/HotelManagementSystem):An online-based Hotel management system using C# and MySQL.
 - 🕒[EARLY-STROKE-RISK-PREDICTION](https://github.com/kamrulkoche/Early-Stroke-Risk-Prediction):Data processing and machine learning models use
 Early Stroke Risk Prediction.
