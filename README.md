@@ -61,9 +61,6 @@ I'm currently exploring [specific technology or framework] to enhance my skills.
 ## 📄 My Resume
 
 Feel free to check out my [Resume](https://drive.google.com/file/d/1rMNK2sa9hUhQMIbNRHPkRqy9dKXawVMH/view?usp=drive_link) for more detailed information about my professional experience, skills, and education.
-## 📚 Hobby Project
-
-- [MY-HOBBY-PROJECT](https://github.com/kamrulkoche/my-hobby-project): A hobby project related to [Your Hobby]. Briefly describe the project and its technologies.
 
 
 
