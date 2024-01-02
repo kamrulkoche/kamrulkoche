@@ -35,7 +35,7 @@ Early Stroke Risk Prediction.
 - **DevOps:** Git & GitHub
 - **Tools:** VSCode, Visual Studio, Postman, Figma, Matlab
 
-## My Git stats
+## 🔗 My Git stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamrulkoche" />
 
