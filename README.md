@@ -56,7 +56,7 @@ Feel free to check out my repositories and drop me a message if you'd like to co
 
 ## 🌱 Currently Exploring
 
-I'm currently exploring [specific technology or framework] to enhance my skills. Excited about diving into [another area of interest] in the coming weeks.
+I'm currently exploring [React(Next.js)] to enhance my skills. Excited about diving into [Nest.js] in the coming weeks.
 
 ## 📄 My Resume
 
