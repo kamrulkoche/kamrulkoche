@@ -4,7 +4,7 @@
 
 <!-- Your Cover Picture -->
 <p align="left">
-<img src="https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/311490448_186672273839787_2227853614606077033_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeGCXACdbhL1M_GaaTchATtvB8ziPkpzV7MHzOI-SnNXs0O6W5buElcpj8cYJdPpSrAvMv3JXOsUFfZsnvF4oosT&_nc_ohc=6md9f1CnpFMAX8wyOpf&_nc_ht=scontent.fdac11-2.fna&oh=00_AfAjG9S1qvLgLnyUiPXu4k9YrZ8LdlOTTBaKHI2b0iGUQA&oe=659865F9" alt="Cover Image" width="60%" />
+<img src="https://scontent.fzyl2-1.fna.fbcdn.net/v/t39.30808-6/311490448_186672273839787_2227853614606077033_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_ohc=jFiFc5mbTVwAX8st3w3&_nc_ht=scontent.fzyl2-1.fna&oh=00_AfB6qMK0GV1gMhP8AoPlzQB07XkkJUdiIMDLAb5ijF266w&oe=65B41579" alt="Cover Image" width="60%" />
 </p>
 
 
