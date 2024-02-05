@@ -11,7 +11,7 @@
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Science**
-  - [American International University - Bangladesh (AIUB)](https://www.aiub.edu/), Graduated: [2023]
+  - [American International University - Bangladesh (AIUB)](https://www.aiub.edu/), Graduated: [2024]
 
 ## 🎓 University Project
 
