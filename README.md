@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-stack+Web+Developer;Next.js+%E2%80%A2+React+%E2%80%A2+Nest.js;Docker+%E2%80%A2+Cloud+%E2%80%A2+APIs+%E2%80%A2+Automation;Exploring+AI-assisted+workflows+%26+integrations)](https://github.com/kamrulkoche)
 
-**Web developer** — UI theke API, database, deployment porjonto. Complex requirement ke **simple, scalable, automate kora workflow** diye solve korte chahi.
+**Web developer** — from UI to API, database, and deployment. I turn complex requirements into **simple, scalable, and automated workflows**.
 
 [![Email](https://img.shields.io/badge/Email-kamrulkoche%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kamrulkoche@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamrul%20Hasan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrul-hasan-485b42200/)
@@ -25,7 +25,7 @@
 
 - BSc in **Computer Science** from [**AIUB**](https://www.aiub.edu/) *(2024)*
 - Core focus: **Next.js**, **React**, **Nest.js**, REST APIs, relational DB
-- Stretching into **containerization**, **cloud-ready deploy**, **AI tooling**, ar **workflow automation**
+- Stretching into **containerization**, **cloud-ready deploy**, **AI tooling**, and **workflow automation**
 - Open to **collaboration** and pragmatic, production-minded discussions
 
 ```yaml
@@ -35,7 +35,7 @@ location:    Dhaka, Bangladesh
 stack:       [Next.js, React, Nest.js, Node.js, PostgreSQL, Docker]
 focus:       Clean APIs, scalable UI, automated deploys
 learning:    Cloud, AI integrations, GitHub Actions
-open_to:     [Full-time roles, Freelance, Open-source collab]
+open_to:     [Full-time roles, Open-source collaboration]
 ```
 
 ---
