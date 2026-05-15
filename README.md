@@ -78,56 +78,16 @@
 
 </div>
 
-> **Docker:** images, compose, reproducible local/prod-parity setups  
-> **Cloud:** deploy patterns, managed services basics, env & secrets hygiene  
-> **Automation:** CI checks, scripted workflows, repeatable releases  
-> **AI:** prompting & API integration, pragmatic use in dev workflow (documentation, codegen assist, lightweight ML features where it fits)
-
----
-
-## Highlight projects
-
-| | |
-|:---|:---|
-| [**Best Click Store**](https://github.com/kamrulkoche/Best-Click-Store) | E-commerce — **Nest.js**, **Next.js**, **PostgreSQL** |
-| [**Dream House**](https://github.com/kamrulkoche/Dream_House-web/tree/Admin) | Property management — **HTML**, **CSS**, **JavaScript**, **Ajax**, **MySQL** |
-| [**Hotel Management System**](https://github.com/kamrulkoche/HotelManagementSystem) | Hotel operations — **MySQL** |
-| [**Early Stroke Risk Prediction**](https://github.com/kamrulkoche/Early-Stroke-Risk-Prediction) | Data + ML / analytics style pipeline |
-| [**Contact Book**](https://github.com/kamrulkoche/Contact_Book) | **Python** tooling |
-
-*(Jokhon Dockerized / CI / cloud deploy koro, table er niche ekta bullet diye repo name add korte paro.)*
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrulkoche&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulkoche&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=kamrulkoche&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
-</div>
-
----
-
-## Social
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074910473251)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamrul_hasan_koche/)
-
-</div>
+> **Docker:** images, compose, reproducible setups  
+> **Cloud:** deploy patterns, env & secrets hygiene  
+> **Automation:** CI, scripted workflows, repeatable releases  
+> **AI:** API integration & practical use in the dev workflow  
 
 ---
 
 <div align="center">
 
-**Currently leveling up:** **Docker** workflows · **Cloud** deploy & ops mindset · **AI** (APIs & practical integration) · **Automation** with **GitHub Actions** & scripting  
+**Currently leveling up:** **Docker** · **Cloud** deploy & ops · **AI** (APIs & integration) · **Automation** with **GitHub Actions**  
 
 *Thanks for visiting — let's build something solid together.*
 
